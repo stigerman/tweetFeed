@@ -1,10 +1,10 @@
 Bootstrap Project
 
-Navigate to socket && npm install 
+In root directory npm install 
 This will bootstrap all client dependencies
 npm start or yarn start 
 
-Navigate to socket/server && npm install
+Navigate to /server && npm install
 This will bootstrap all server side dependencies
 npm start
 
